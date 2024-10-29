@@ -11,7 +11,7 @@ output:
 # About me
 <img src="image/image.jpg" style = "width:50%">
  
-Hi! I’m **Li (Lee) Jiang**
+Hi all! I’m **Li (Lee) Jiang**
 
 ##Link to my Resume
 [Resume](resume.html)
