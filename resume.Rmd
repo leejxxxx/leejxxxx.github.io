@@ -1,0 +1,74 @@
+---
+title: "resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# About me
+**EDUCATION** 
+Columbia University, Mailman School of Public Health, New York, NY                       
+May 2025(expected) 
+Master of Public Health, Biostatistics; Certificate in Advanced Epidemiology                     
+Relevant Coursework: Statistical Computing with SAS, Linear Regression Models, Data Science, SQL Programming 
+University of Wisconsin-Madison, College of Agricultural & Life Sciences, Madison, WI        
+Sept. 2018 - May 2023            
+Bachelor of Science, Animal Science & Applied Economics, Dean’s list (Spring 2020, Fall 2022, Spring 2023)                       
+Relevant Coursework: Quantitative Genetics, SNP sequencing, Animal Experiments, Animal Nutrition, Microbiology  
+RESEARCH EXPERIENCES 
+Kyinno Biotechnology Inc.            
+Boston, MA                                                     
+Laboratory Data Analyst Intern                                                          
+Jun.2024 – Aug.2024 
+• Proficiently cleaned datasets and managed Kyinno pharmacological database (Innopedia) using SAS 
+• Developed and implemented automation algorithms to manage 400+ engineered cell lines within Innopedia, significantly 
+enhancing process efficiency and reducing manual workload for operation team 
+• Employed web-scraping techniques using Python to automate data collection from 100+ targeted websites and provided 
+insights for business development team, leading to 5+ successful business meetings and strategic partnerships 
+• Built regression models with R to identify key factors driving cell-line sales, guiding decisions on marketing strategies. 
+UW-Madison Department of Animal and Dairy Sciences, Rosa Lab      
+Madison, WI                                                     
+Undergraduate Research Assistant                                                       
+Jan.2022 – May.2023 
+• Presented “Analysis of Model Predictive Ability” at the Dairy Science Department Seminar, UW-Madison, 2023 
+• Employed quantitative statistical models in fish breeding to determine correlations between novel traits and common 
+variance, using R programming for data input and analysis 
+• Assisted developing models on image analysis and vision techniques aiming on animal behavior and reproduction 
+Jiangsu Dizal Pharmacy (AstraZeneca) Co., Ltd.                              
+Lab Technician Assistant Intern                                               
+Shanghai, China 
+Jan.2021 - Oct.2021 
+• Collected data from laboratory environments, including humidity, temperature, and equipment calibration 
+• Conducted literature review on laboratory layouts, sanitation methods in laboratory settings and animal welfare guidelines 
+• Summarized research papers and presented findings on a weekly basis to colleagues and supervisors  
+• Administered multiple doses of the experimental drug to genetically modified experimental animals and monitored 
+their physiological responses with animal handling techniques and animal anatomical techniques  
+LEADERSHIP AND ON CAMPUS EXPERIENCES 
+UW Madison Pre-vet Club                                                
+Madison, WI 
+Club Member & Horse Barn Manager                                           
+Aug.2018 - May.2023                                                   
+• Coordinated "Dogs on Call" activity to alleviate 100+ student anxiety during midterm weeks in three major libraries 
+• Assisted veterinarians in monitoring horses at the on-campus horse barn and collecting data for nutritional research 
+• Provided daily care to ensure the well-being of 8 horses, including feeding, grooming, and stall cleaning 
+USDA Nestle China Project                                                   
+Attendant Translator                                                      
+Madison, WI 
+Jun. 2019 – Sept.2019 
+• Acted as the attendant translator for 10 Nestle China visiting scholars with USDA Coordinator Karen Nielson.  
+• Strengthened collaboration between 6 international companies and local dairy industries by providing accurate and 
+real-time translation and ensuring smooth communication  
+CUSTOMER SUPPORT ENGAGEMENT   
+Tesla, Inc.                                                            
+Changsha, China 
+Sales Specialist Advisor                                                     
+May.2020 – Sept.2020 
+• Provided post-purchase service by addressing inquiries and assisting with appointments for 10+ customers and families 
+• Introduced electric vehicles to 100+ customers, highlighting the benefits of Tesla products and explaining concepts like 
+range, charging infrastructure, and environmental sustainability 
+SKILLS 
+Data Analysis/Computer Skills: Python, SQL, R Programming, SAS, Microsoft Word, Excel, and PowerPoint  
+Language: Chinese (Native), English (Proficient), Cantonese (Entry-level)
+

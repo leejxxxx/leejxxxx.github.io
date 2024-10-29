@@ -1,11 +1,17 @@
 ---
 title: "JL's website"
-  output: 
+output: 
   html_document:
     toc: true
     toc_float: true
     theme: cerulean
 ---
+# Welcome to JL's personal website
 
-# This is JL's personal website for P8105
+# About me
+<img src="image/image.jpg" style = "width:50%">
+ 
+Hi! I’m **Li (Lee) Jiang**
 
+##Link to my Resume
+[Resume](resume.html)
