@@ -6,7 +6,7 @@ navbar:
     - text: "Resume"
       href: resume.html
     - text: "Plot_Code"
-      href: plotly.rmd
+      href: plotly.html
     - text: "Dashboard"
       href: dashboard.html
     - icon: fa-envelope fa-lg
