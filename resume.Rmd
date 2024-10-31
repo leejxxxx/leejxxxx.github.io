@@ -1,19 +1,22 @@
 ---
-title: "resume"
+title: "Resume"
 output: 
-  html_document:
+  html_document: 
     toc: true
     toc_float: true
 ---
 
-# About me
 **EDUCATION** 
-Columbia University, Mailman School of Public Health, New York, NY                       
-May 2025(expected) 
-Master of Public Health, Biostatistics; Certificate in Advanced Epidemiology                     
-Relevant Coursework: Statistical Computing with SAS, Linear Regression Models, Data Science, SQL Programming 
-University of Wisconsin-Madison, College of Agricultural & Life Sciences, Madison, WI        
-Sept. 2018 - May 2023            
+
+**Columbia University**, 
+*Mailman School of Public Health, New York, NY                       
+May 2025(expected)*
+--- Master of Public Health, Biostatistics; Certificate in Advanced Epidemiology                     
+Relevant Coursework: Statistical Computing with SAS, Linear Regression Models, Data Science, SQL Programming
+
+**University of Wisconsin-Madison**, 
+*College of Agricultural & Life Sciences, Madison, WI        
+Sept. 2018 - May 2023*       
 Bachelor of Science, Animal Science & Applied Economics, Dean’s list (Spring 2020, Fall 2022, Spring 2023)                       
 Relevant Coursework: Quantitative Genetics, SNP sequencing, Animal Experiments, Animal Nutrition, Microbiology  
 RESEARCH EXPERIENCES 

@@ -10,7 +10,13 @@ output:
 # About me
 <img src="image/image.jpg" style = "width:50%">
  
-Hi all! I’m **Li (Lee) Jiang**
+Hi all! I’m **Li (Lee) Jiang** and this is for P8105 HW4
 
 ##Link to my Resume
 [Resume](resume.html)
+
+##Link to my Plot_code
+[Plot_code](plotly.html)
+
+##Link to my dashboard
+[Dashboard](dashboard.html)
