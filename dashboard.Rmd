@@ -60,7 +60,7 @@ ny_noaa_clean2 %>%
  layout(
     title = "Poly boxplot for yearly temperature range",
     xaxis = list(title = "Year"),
-    yaxis = list(title = "trange"))
+    yaxis = list(title = "Temperature Range"))
 ```
 
 ### Chart C
@@ -72,6 +72,10 @@ ny_noaa_clean3 <- ny_noaa_clean%>%
   summarise(total_prcp = sum(prcp))
 
 ny_noaa_clean3%>%
-  plot_ly(x=~year, y=~total_prcp,type="bar")
+  plot_ly(x=~year, y=~total_prcp,type="bar")%>%
+   layout(
+    title = "Poly barchart for total precipitation",
+    xaxis = list(title = "Year"),
+    yaxis = list(title = "Total precipitation"))
 ```
 
